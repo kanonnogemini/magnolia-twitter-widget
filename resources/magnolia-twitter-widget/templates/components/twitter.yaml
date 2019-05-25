@@ -1,0 +1,4 @@
+templateScript: /magnolia-twitter-widget/templates/components/twitter.ftl
+renderType: freemarker
+modelClass: org.magnolia.twitter.widget.models.ModelTwitter
+title: Twitter Component
