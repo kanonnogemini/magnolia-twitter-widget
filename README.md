@@ -16,7 +16,7 @@
 
 > The module uses the magnolia cache to improve performance, if you want to change the time to reload, you only have to modify the magnolia cache file
 
-![Component Cache(/_dev/cache.jpg)
+![Component Cache](/_dev/cache.jpg)
 
 
 (To make this component available in your basic page, you could use the decoration included in `resources/magnolia-twitter-widget/decorations`.)
