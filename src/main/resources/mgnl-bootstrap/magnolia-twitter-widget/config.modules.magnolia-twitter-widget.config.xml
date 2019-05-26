@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sv:node xmlns:sv="http://www.jcp.org/jcr/sv/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" sv:name="config">
+  <sv:property sv:name="jcr:primaryType" sv:type="Name">
+    <sv:value>mgnl:content</sv:value>
+  </sv:property>
+  <sv:property sv:name="accessTokenKey" sv:type="String">
+    <sv:value>950296824669237248-N5365Sc3gFEBuHNr2sOp0iBqCLnx89H</sv:value>
+  </sv:property>
+  <sv:property sv:name="accessTokenSecret" sv:type="String">
+    <sv:value>O2wJNLIttzoizcjqEgg8OtYbnCKWV1ppsrPBXIV4eJOw2</sv:value>
+  </sv:property>
+  <sv:property sv:name="consumerKey" sv:type="String">
+    <sv:value>ObUb5U1myhbm63ce698r8gA1W</sv:value>
+  </sv:property>
+  <sv:property sv:name="consumerSecret" sv:type="String">
+    <sv:value>dTelpOV0NRzMCRVg2nndtS9v4kN9vgfdjS0JxDOnGrstX8wpDk</sv:value>
+  </sv:property>
+  <sv:property sv:name="countTweets" sv:type="String">
+    <sv:value>6</sv:value>
+  </sv:property>
+</sv:node>

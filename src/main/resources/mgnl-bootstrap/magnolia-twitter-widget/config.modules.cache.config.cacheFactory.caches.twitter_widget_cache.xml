@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sv:node xmlns:sv="http://www.jcp.org/jcr/sv/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" sv:name="twitter_widget_cache">
+  <sv:property sv:name="jcr:primaryType" sv:type="Name">
+    <sv:value>mgnl:contentNode</sv:value>
+  </sv:property>
+  <sv:property sv:name="extends" sv:type="String">
+    <sv:value>../default</sv:value>
+  </sv:property>
+  <sv:property sv:name="timeToLiveSeconds" sv:type="String">
+    <sv:value>1800</sv:value>
+  </sv:property>
+  <sv:node sv:name="persistence">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:contentNode</sv:value>
+    </sv:property>
+    <sv:property sv:name="strategy" sv:type="String">
+      <sv:value>none</sv:value>
+    </sv:property>
+  </sv:node>
+</sv:node>
+
