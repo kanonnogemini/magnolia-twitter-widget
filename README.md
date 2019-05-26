@@ -12,7 +12,12 @@
 > Go to the configuration page and look for the module folder. Add the data provided by the twitter API.
 
 
-![Component Configuration](_dev/imgs/config.png)
+![Component Configuration](_dev/config.png)
+
+> The module uses the magnolia cache to improve performance, if you want to change the time to reload, you only have to modify the magnolia cache file
+
+![Component Cache(_dev/cache.png)
+
 
 (To make this component available in your basic page, you could use the decoration included in `resources/magnolia-twitter-widget/decorations`.)
 
