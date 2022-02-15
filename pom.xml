@@ -31,7 +31,7 @@
     <dependency>
     	<groupId>info.magnolia</groupId>
     	<artifactId>magnolia-core</artifactId>
-    	<version>6.0</version>
+    	<version>6.2.12</version>
     </dependency>
     
     <dependency>
